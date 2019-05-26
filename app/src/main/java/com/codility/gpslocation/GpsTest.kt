@@ -3,6 +3,7 @@ package com.ysaito.gpskalmanfilter.test;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+//importing junit for testing
 
 import com.ysaito.gpskalmanfilter.*;
 public class GpsTest {
